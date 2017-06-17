@@ -35,7 +35,6 @@
 				238EE9A61EF5E70000D7E4BE /* modules */,
 				238EE9A41EF5E6EE00D7E4BE /* include */,
 				238EE9A31EF5E6E400D7E4BE /* doc */,
-				238EE9A21EF5E28E00D7E4BE /* New Group */,
 				238EE9A11EF5E28500D7E4BE /* data */,
 				238EE99E1EF5E26000D7E4BE /* apps */,
 				238EE99C1EF5E24A00D7E4BE /* 3rdparty */,
@@ -70,13 +69,6 @@
 			children = (
 			);
 			name = data;
-			sourceTree = "<group>";
-		};
-		238EE9A21EF5E28E00D7E4BE /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "New Group";
 			sourceTree = "<group>";
 		};
 		238EE9A31EF5E6E400D7E4BE /* doc */ = {
@@ -316,6 +308,7 @@
 				238EE99B1EF5E11C00D7E4BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
